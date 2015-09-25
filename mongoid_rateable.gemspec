@@ -18,6 +18,6 @@ Gem::Specification.new do |s|
   s.rubygems_version = "1.8.18"
   s.summary = "Rating functionality for Mongoid documents"
 
-  s.add_runtime_dependency('mongoid', "~> 4.0.2")
+  s.add_runtime_dependency('mongoid', "~> 5.0.0")
 end
 
